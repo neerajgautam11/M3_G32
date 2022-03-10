@@ -1,5 +1,5 @@
 # M3_G32
 
-## BiCom project
+## BiCom System project
 
 ## Remote Keyless Entry project
