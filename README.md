@@ -17,12 +17,11 @@ RKE transmission requires two components - a transmitter and a receiver.
 2.	 RKE operates by broadcasting radio waves on a particular frequency unidirectionally. 
  
  
-## Folder structure
-| 1_Requirements | 2_Design | 3_Implementation | 4_TestplanAndOutput | 5_Report | 6_ImagesAndVideos | 7_Others |
-| --- | --- | --- | --- | --- | --- | --- |
-| Documents detailing requirements and research | Documents related to design of model | All codes and make file | test plans with requirements | summary of all the folders | screenshots of working projects | refrences and supporting documents |
-
-
+## Folder structure :
+|   Folder Name        |      Description
+|:-------------------- |:--------------------------
+| BI-COM Project       | It contains Detailed information about BI-COM Project
+|||
 
  
 
