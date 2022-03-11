@@ -1,6 +1,9 @@
 # M3_G32
 
 ## Badges acquired in project
+### Codiga
+![code_quality](https://api.codiga.io/project/31877/score/svg)
+![code_grade](https://api.codiga.io/project/31877/status/svg)
 ### cpp-check
 [![cpp-check](https://github.com/neerajgautam11/M3_G32/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/neerajgautam11/M3_G32/actions/workflows/c-cpp.yml)
 ### Codeac
