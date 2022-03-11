@@ -3,7 +3,7 @@
 ## Badges acquired in project
 | Codiga | Codacy |
 | --- | --- | --- |
-
+[![cpp-check](https://github.com/neerajgautam11/M3_G32/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/neerajgautam11/M3_G32/actions/workflows/c-cpp.yml)
 
 
 
