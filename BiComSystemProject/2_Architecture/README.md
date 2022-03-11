@@ -8,11 +8,7 @@
     ![2](https://user-images.githubusercontent.com/98866993/157817268-67c7e941-462e-4658-ba39-1ebb7430ba9e.png)
     
 * ## Structural Diagram
-    * ### High Level UML Use Case Structural Diagram
-    ![3](https://user-images.githubusercontent.com/98866993/157818103-2dab6a64-23af-47cc-8419-c5d965bb818e.png)
-
-    * ### Low Level UML Use Case Structural Diagram
-    ![4](https://user-images.githubusercontent.com/98866993/157819131-c4893b9d-b2d1-412c-8aa4-b3e336db9351.png)
+   ![BLOCK_](https://user-images.githubusercontent.com/98889318/157828596-7c1187ca-fa1b-42a7-ae69-b83c2f2fd717.png)
 
 
 
