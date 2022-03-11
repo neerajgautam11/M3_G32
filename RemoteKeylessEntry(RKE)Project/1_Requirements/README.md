@@ -27,10 +27,10 @@ RKE systems employ encryption methods to prevent car thieves from intercepting a
 
 | ID | High Level Requirements       |
 | -------- | ----------------------- |
-| HLR1 | WINDOW STATUS OF THE CAR will be printed on it |
-| HLR2 | ALARM STATUS OF THE CAR will be printed |
-| HLR3 | It will print the CAR BATTERY INFORMATION |
-| HLR4 | The DOOR STATUS OF THE CAR will be printed on it |
+| HLR1 | Window Status of the Car will be printed on it i.e Lock/Unlock. |
+| HLR2 | Alarm Status of the Car will be printed. |
+| HLR3 | It will print the Car Battery Information.|
+| HLR4 | The Door Status of the Car will be printed on it and Glow these Approach lights for indication.|
 
 ## Low Level Requirements :
 |ID	    | Low Level Requirements                                   |HLR ID
