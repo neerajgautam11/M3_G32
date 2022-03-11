@@ -18,7 +18,7 @@ RKE systems employ encryption methods to prevent car thieves from intercepting a
 3. For the younger generation, a new generation of smart automobile concept.
 
 ---
-## 5W's & 1H and S.W.O.T analysis is in the below table 
+## 5W's & 1H and S.W.O.T 
 
 SWOT analysis
 
