@@ -3,7 +3,7 @@
 ## Introduction :
 A bi-com lock, also known as keyless entry or remote central locking, is one that uses an electronic remote control as a key that is activated by a handheld device or automatically by proximity. An RKS, which is widely used in automobiles, accomplishes the tasks of a traditional car key without requiring physical touch. Pressing a button on the remote while within a few yards of the automobile can lock or unlock the doors, as well as conduct other operations.
 
-## About :
+## Abstract :
 RKE systems employ encryption methods to prevent car thieves from intercepting and spoofing the telegrams. RKE systems operate by transmitting radio waves on a certain frequency unidirectionally.
 
 ## Objective :
