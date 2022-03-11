@@ -1,17 +1,9 @@
 # M3_G32
 
 ## Badges acquired in project
-### Codiga
-![code_quality](https://api.codiga.io/project/31877/score/svg)
-![code_grade](https://api.codiga.io/project/31877/status/svg)
-### cpp-check
-[![cpp-check](https://github.com/neerajgautam11/M3_G32/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/neerajgautam11/M3_G32/actions/workflows/c-cpp.yml)
-### Codeac
-[![Codeac](https://static.codeac.io/badges/2-468468533.svg "Codeac")](https://app.codeac.io/github/neerajgautam11/M3_G32)
-### Codacy 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e275f9c662b24b1d991ae71cd8d84995)](https://www.codacy.com/gh/neerajgautam11/M3_G32/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=neerajgautam11/M3_G32&amp;utm_campaign=Badge_Grade)
-### Build
-[![CI](https://github.com/neerajgautam11/M3_G32/actions/workflows/main.yml/badge.svg)](https://github.com/neerajgautam11/M3_G32/actions/workflows/main.yml)
+| Codiga|cpp-check|Codeac|Codacy | Build|
+|---|---|---|---|---|
+|![code_quality](https://api.codiga.io/project/31877/score/svg)|![code_grade](https://api.codiga.io/project/31877/status/svg)|[![cpp-check](https://github.com/neerajgautam11/M3_G32/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/neerajgautam11/M3_G32/actions/workflows/c-cpp.yml)|[![Codeac](https://static.codeac.io/badges/2-468468533.svg "Codeac")](https://app.codeac.io/github/neerajgautam11/M3_G32)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e275f9c662b24b1d991ae71cd8d84995)](https://www.codacy.com/gh/neerajgautam11/M3_G32/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=neerajgautam11/M3_G32&amp;utm_campaign=Badge_Grade)|[![CI](https://github.com/neerajgautam11/M3_G32/actions/workflows/main.yml/badge.svg)](https://github.com/neerajgautam11/M3_G32/actions/workflows/main.yml)|
 
 ## Aim :
 * To design a RKE system.
