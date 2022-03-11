@@ -5,7 +5,7 @@
 | --- | --- | --- |
 [![cpp-check](https://github.com/neerajgautam11/M3_G32/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/neerajgautam11/M3_G32/actions/workflows/c-cpp.yml)
 [![Codeac](https://static.codeac.io/badges/2-468468533.svg "Codeac")](https://app.codeac.io/github/neerajgautam11/M3_G32)
-
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e275f9c662b24b1d991ae71cd8d84995)](https://www.codacy.com/gh/neerajgautam11/M3_G32/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=neerajgautam11/M3_G32&amp;utm_campaign=Badge_Grade)
 
 ## Aim :
 * To design a RKE system.
