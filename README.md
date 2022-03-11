@@ -19,7 +19,7 @@ Widely used in automobiles, an RKS performs the functions of a standard car key 
  
 ## Folder structure :
 |   Folder Name        |      Description
-|:-------------------- |:--------------------------
+|:-------------------- |:------------------------------
 | BI-COM Project       | It contains Detailed information about BI-COM Project.
 |Remote Keyless Entry (RKE)|It contains Detailed information about RKE Project.
 
