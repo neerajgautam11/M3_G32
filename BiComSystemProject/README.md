@@ -2,12 +2,12 @@
 
  A BiCom system is the extention of the unidirectional RKE to bidirectional RKE system.
  ·      
-* Keyfob -> car (like a unidirectional RKE system)    
+* Keyfob -> car (like a unidirectional RKE system). 
 * car -> keyfob (car status information for displaying on the keyfob by LED or
-display) 
+display).
 * RKE transmission requires two components - a transmitter and a receiver. 
 * Transmitter - RKE key fob, other ID device with RKE integrated 
-* Receiver - Body Control ECU, other ECU with integrated RKE 
+* Receiver - Body Control ECU, other ECU with integrated RKE. 
 * RKE operates by broadcasting radio waves on a particular frequency unidirectionally.
 
 
