@@ -1,6 +1,6 @@
 # Test Plan and Output 
 
-# High Level Test Plan
+## High Level Test Plan
 
 | Test ID | Description | Input | Expected Output | Actual Output |
 |---------:|:----------:|:------:|:--------------:|:---------------|
@@ -9,7 +9,7 @@
 |03 | Print car battery info | User presses button three times | Print car battery info |  Print car battery info |
 |04 | Print door status | User presses button four times | Print door status of car | Print door status of car |
 
-# Low Level Test Plan 
+## Low Level Test Plan 
 
 | Test ID | Description | Input | Expected Output | Actual Output | Passed |
 |--------:|:-----------:|:-----:|:---------------:|:--------------:|:-------|
