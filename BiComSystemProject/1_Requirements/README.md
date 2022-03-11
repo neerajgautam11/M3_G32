@@ -70,24 +70,25 @@ RKE systems employ encryption methods to prevent car thieves from intercepting a
 possibility for hackers to manipulate the technology and steal your vehicle.
 
 
-
-## 5W's & 1H 
+## 5W's & 1H :
 
 ![image](https://user-images.githubusercontent.com/98873866/157835000-7bf33ed6-2dc1-41c7-82b1-933e75c7b107.png)
 
 
 ### WHAT:
-It is a feature which can be used to access your car remotly.
+* It is a feature which can be used to access your car remotly.
 
 ### WHO:
-The owner who has the key can access the car.
+* The owner who has the key can access the car.
 
 ### WHEN:
-When the user will press the button on the key, it will open/lock the car.
+* When the user will press the button on the key, it will open/lock the car.
+
 ### Why :
-Remote keyless entry systems alarm the vehicle against theft and lock and unlock the doors.
+* Remote keyless entry systems alarm the vehicle against theft and lock and unlock the doors.
+
 ### HOW:
-By pressing the button on the key we access the car lock.
+* By pressing the button on the key we access the car lock.
 
 
 
