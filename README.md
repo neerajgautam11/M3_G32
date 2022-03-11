@@ -1,10 +1,10 @@
 # M3_G32
 
-## Aim
+## Aim :
 * To design a RKE system.
 * To design a Bi-com system.
 
-## Introduction
+## Introduction :
 Remote keyless entry (RKE) system & BiCom system:
 
 The term remote keyless system (RKS), also called keyless entry or remote central locking, refers to a lock that uses an electronic remote control as a key which is activated by a handheld device or automatically by proximity.
@@ -20,8 +20,8 @@ RKE transmission requires two components - a transmitter and a receiver.
 ## Folder structure :
 |   Folder Name        |      Description
 |:-------------------- |:--------------------------
-| BI-COM Project       | It contains Detailed information about BI-COM Project
-|Remote Keyless Entry (RKE)|It contains Detailed information about RKE Project|
+| BI-COM Project       | It contains Detailed information about BI-COM Project.
+|Remote Keyless Entry (RKE)|It contains Detailed information about RKE Project.
 
  
 
