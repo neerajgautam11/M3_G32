@@ -120,6 +120,7 @@ have various features.
   ![2](https://user-images.githubusercontent.com/98866993/157817268-67c7e941-462e-4658-ba39-1ebb7430ba9e.png)
     
 ## Structural Diagram :
+
 ![BLOCK_](https://user-images.githubusercontent.com/98889318/157882409-d7662066-80c3-49c3-98fb-54b55361c0b9.png)
 
 
