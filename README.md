@@ -4,7 +4,7 @@
 | Codiga | Codacy |
 | --- | --- | --- |
 [![cpp-check](https://github.com/neerajgautam11/M3_G32/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/neerajgautam11/M3_G32/actions/workflows/c-cpp.yml)
-
+[![Codeac](https://static.codeac.io/badges/2-468468533.svg "Codeac")](https://app.codeac.io/github/neerajgautam11/M3_G32)
 
 
 ## Aim :
