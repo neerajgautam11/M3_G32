@@ -13,8 +13,8 @@
 
 | Test ID | Description | Input | Expected Output | Actual Output | Passed |
 |--------:|:-----------:|:-----:|:---------------:|:--------------:|:-------|
-| 01      | check print window status |User presses button once| All LEDs should on | All LEDs should on | Pass |
-|02 | Check print alarm status | User presses button twice | All LEDs should off | All LEDs should off | Pass |
-|03 | Check print car battery info | User presses button three times | LEDs should on once clockwise | LEDs should on once clockwise | Pass |
-|04 | check print door status |  User presses button four times | LEDs should on once anticlockwise | LEDs should on once anticlockwise | Pass |
+| 01      | check print window status |User presses button once| All LEDs should on | All LEDs should on | Passed :white_check_mark:|
+|02 | Check print alarm status | User presses button twice | All LEDs should off | All LEDs should off | Passed :white_check_mark:|
+|03 | Check print car battery info | User presses button three times | LEDs should on once clockwise | LEDs should on once clockwise | Passed:white_check_mark: |
+|04 | check print door status |  User presses button four times | LEDs should on once anticlockwise | LEDs should on once anticlockwise | Passed :white_check_mark:|
 
