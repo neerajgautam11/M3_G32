@@ -38,6 +38,9 @@ The owner who has the key can access the car.
 ### WHEN:
 When the user will press the button on the key, it will open/lock the car.
 
+### HOW:
+By pressing the button on the key we access the car lock.
+
 
 ## Requirements # RKE (Bi-com system)
 
