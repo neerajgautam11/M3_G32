@@ -65,7 +65,7 @@ possibility for hackers to manipulate the technology and steal your vehicle.
 
 
  ### Who :
- * owner of the vehicle
+ * owner of the vehicle.
 
 ### What :
 * Keyless entry systems are used to remotely lock, unlock and can
