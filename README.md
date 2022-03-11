@@ -1,5 +1,9 @@
 # M3_G32
 
+## Group members
+|Sanket Kamble| Neeraj Gautam |Anshul Thakur| Nehal Kamble|
+|---|---|---|---|
+|99007844 |99007845|99007846 | 99007847  |
 ## Badges acquired in project
 | Codiga|cpp-check|Codeac|Codacy | Build|
 |---|---|---|---|---|
