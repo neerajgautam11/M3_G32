@@ -116,3 +116,23 @@ have various features.
 ### Low Level UML Use Case Structural Diagram :
    
 ![4](https://user-images.githubusercontent.com/98866993/157819131-c4893b9d-b2d1-412c-8aa4-b3e336db9351.png)
+
+# Test Plan and Output
+## High level test plan
+| Test ID | Description | Input  |      Expected output | Actual output |
+|---------:|:-----------:|:------------------:|:----------------:|:---------------|
+| 01       | Lock        |  User presses button once | Lock the car | Lock the car |
+| 02       | Unlock      | User presses button twice  | Unlock the car | Unlock the car |
+| 03       | Alarm Activate / Deactivate |  User presses button three times | activate or deactivate alarm | activate or deactivate alarm |
+| 04       | Approach light  |  User presses button four times | turn on approach light | turn on approach light |
+| 03       | Alarm Activate / Deactivate |  User presses button three times | Activate or Deactivate alarm | Activate or Deactivate alarm |
+| 04       | Approach light  |  User presses button four times | Turn on approach light | Turn on approach light |
+
+## Low level test plan
+
+| Test ID  | Description | Input |  Expected output | Actual output | Passed |
+|------------:|:-----------------:|:----------------:|:-----------------:|:------------------:|:---------|
+| 01 | check for lock | User presses button once | All LEDs should on | All LEDs should on | Pass |
+| 02 | Check for unlock | User presses button twice | All LEDs should off | All LEDs should off | Pass |
+| 03 | Check for alarm activate/deactivate | User presses button three times | LEDs should on clockwise | LEDs should on clockwise | Pass |
+| 04 | Check for approach light | User presses button four times | LEDs should on anticlockwise |  LEDs should on anticlockwise | Pass|
