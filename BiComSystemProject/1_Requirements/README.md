@@ -13,12 +13,12 @@ RKE systems employ encryption methods to prevent car thieves from intercepting a
 4. When the Button is pressed FOUR times, the automobile must be exposed to light.
 
 ## Current State of the Art
- 1. The main focus is on wireless and remote control of the car.
+1. The main focus is on wireless and remote control of the car.
 2. The second area of focus is to give our car with security via a dependable Encryption System.
 3. For the younger generation, a new generation of smart automobile concept.
 
 ---
-##  S.W.O.T 
+##  S.W.O.T Analysis :
 
 ![SWOT_](https://user-images.githubusercontent.com/98889318/157816328-b7774820-ed00-4eca-891c-7e4b328d6432.png)
 
