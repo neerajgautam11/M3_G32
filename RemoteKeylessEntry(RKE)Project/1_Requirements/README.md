@@ -2,6 +2,7 @@
 #  Remote Keyless Entry System 
 ## Introduction:
 A Remote Keyless Entry lock, also known as keyless entry or remote central locking, is one that uses an electronic remote control as a key that is activated by a handheld device or automatically by proximity. An RKS, which is widely used in automobiles, accomplishes the tasks of a traditional car key without requiring physical touch. Pressing a button on the remote while within a few yards of the automobile can lock or unlock the doors, as well as conduct other operations.
+Remote keyless entry (RKE) is an electronic access system that can be controlled from a distance. RKEs, which are typically used to remotely lock or unlock doors, require the end user to initiate an action that will cause a physical or software key fob to transmit a radio signal to a receiver that controls an electronic lock. Typically, the action is to press a button on a physical fob or mobile app.
 
 ## About:
 RKE systems employ encryption methods to prevent car thieves from intercepting and spoofing the telegrams. RKE systems operate by transmitting radio waves on a certain frequency unidirectionally.
@@ -38,29 +39,13 @@ SWOT analysis
 | HLR4 | The DOOR STATUS OF THE CAR will be printed on it |
 
 # Low Level Requirements
-| Id          | Low Level Requirements for HLR1   | 
-| --------    | ---------------          |  
-| LLR1.1      | When you hit the button, all of the LEDs should turn on   | 
-| LLR1.2      | All of the LEDs should be turned on at the same time i.e Green-on, Orange-on, Red-on, Blue-on|
-
-| Id          | Low Level Requirements for HLR2   |  
-|  --------     |  --------     | 
-| LLR2.1        | When you click the button, all of the LEDs should turn off at the same time   |
-| LLR2.2      | All the LED's should be turned off at the same time i.e Green-off, Orange-off, Red-off, Blue-off|
-
-
-| Id          | Low Level Requirements for HLR3   |  
-|  --------      |  --------       | 
-| LLR3.1        | When the button is pressed all the LED's shall be on    |
-| LLR3.2        | When the button is pressed LED's shall be on in clockwise direction | 
-
-| Id          | Low Level Requirements for HLR4   |  
-| --------    |  --------      |  
-| LLR4.1        | When the button is pressed all the LED's shall be on    | 
-| LLR4.2        | When the button is pressed LED's shall be on in anti-clockwise direction |
-
-
-
+|ID	    |Description                                               |HLR ID
+|:------|:---------------------------------------------------------|:----
+|LLR01	| When you hit the button, all of the LEDs should turn on  |HLR01
+|| All of the LEDs should be turned on at the same time i.e Green-on, Orange-on, Red-on, Blue-on|HLR01
+|LLR02	|When you click the button, all of the LEDs should turn off at the same time                   |HLR02
+|	|All the LED's should be turned off at the same time i.e Green-off, Orange-off, Red-off, Blue-off|HLR02
+|LLR05	|Potentiometer should regulate the voltage properly.       |HLR04
 
 
 
