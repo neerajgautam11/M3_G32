@@ -1,4 +1,19 @@
 # Output Images
+## When Blue button is pressed one time :
+![Screenshot (104)](https://user-images.githubusercontent.com/98873866/158002319-9ffd98cf-553f-4c4a-a47f-68e09a3812bb.png)
+
+
+## When Blue button is pressed two times :
+![Screenshot (105)](https://user-images.githubusercontent.com/98873866/158002336-754635e6-86d8-4041-bd81-a530d0532e44.png)
+
+
+## When Blue button is pressed three times :
+![Screenshot (107)](https://user-images.githubusercontent.com/98873866/158002380-a3d8fd9c-cf1d-48a4-b400-e19206719df6.png)
+
+
+
+## When Blue button is pressed four times :
+![Screenshot (109)](https://user-images.githubusercontent.com/98873866/158002359-46778be9-9855-45d7-8cd3-0d2b1d64bc4c.png)
 
 
  ##  Behavioral Diagram
