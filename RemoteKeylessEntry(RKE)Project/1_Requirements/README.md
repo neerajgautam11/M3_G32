@@ -1,7 +1,8 @@
 
 #  Remote Keyless Entry System 
+![image](https://user-images.githubusercontent.com/98873866/158000452-70709484-3d5a-4d10-b552-79a0ad043d16.png)
 
-![Uploading image.png…]()
+
 
 ## Introduction :
 A Remote Keyless Entry lock, also known as keyless entry or remote central locking, is one that uses an electronic remote control as a key that is activated by a handheld device or automatically by proximity. An RKS, which is widely used in automobiles, accomplishes the tasks of a traditional car key without requiring physical touch. Pressing a button on the remote while within a few yards of the automobile can lock or unlock the doors, as well as conduct other operations.
