@@ -1,5 +1,9 @@
 
 #  BI-COM SYSTEM
+
+![BMW_KeyFob (1)](https://user-images.githubusercontent.com/98873866/158000009-ee22631e-53a6-4e14-b581-c86bbc4207e4.jpg)
+
+
 ## Introduction :
 A bi-com lock, also known as keyless entry or remote central locking, is one that uses an electronic remote control as a key that is activated by a handheld device or automatically by proximity. An RKS, which is widely used in automobiles, accomplishes the tasks of a traditional car key without requiring physical touch. Pressing a button on the remote while within a few yards of the automobile can lock or unlock the doors, as well as conduct other operations.
 
