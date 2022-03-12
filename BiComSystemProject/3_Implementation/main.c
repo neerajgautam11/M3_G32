@@ -49,7 +49,7 @@ int main(void)
 
 	while(1)
 	{
-		state=button_count();
+		flag=button_count();
 
 		switch (flag ){
 			case 1:
