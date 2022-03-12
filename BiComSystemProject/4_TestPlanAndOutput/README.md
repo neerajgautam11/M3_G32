@@ -26,10 +26,14 @@
 ![Screenshot (105)](https://user-images.githubusercontent.com/98873866/158002336-754635e6-86d8-4041-bd81-a530d0532e44.png)
 
 
-## When Blue button is pressed three times :
-![Screenshot (107)](https://user-images.githubusercontent.com/98873866/158002380-a3d8fd9c-cf1d-48a4-b400-e19206719df6.png)
+## When Blue button is pressed three times (Led glows in Clockwise manner) :
+![Screenshot (106)](https://user-images.githubusercontent.com/98873866/158002561-6e46b046-9460-4c3b-bb78-43fc00dd40c5.png)
 
 
 
-## When Blue button is pressed four times :
+
+## When Blue button is pressed four times (Led glows in Anti Clockwise manner):
+#### To turn off the LED which were on after step 3
+![Screenshot (107)](https://user-images.githubusercontent.com/98873866/158002580-acbb3cc7-1d27-4e82-8734-1dfd065fc801.png)
+
 ![Screenshot (109)](https://user-images.githubusercontent.com/98873866/158002359-46778be9-9855-45d7-8cd3-0d2b1d64bc4c.png)
