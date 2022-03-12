@@ -33,7 +33,7 @@ void delay(uint32_t count)
 int main(void)
 {
 	int KeY=0;
-	int state=0,old=0;
+	int flag =0,old=0;
 
 	GPIO_Handle_t GPIOBtn;
 
@@ -51,31 +51,31 @@ int main(void)
 	{
 		state=button_count();
 
-		switch (state){
+		switch (flag ){
 			case 1:
-				KeY=KEY_Encryption(state);
+				KeY=KEY_Encryption(flag );
 				if(KeY==1){
 				ledon_1();
 				ledon_2();
 				ledon_3();
 			    ledon_4();
-				old=state;
-				state=0;
+				old=flag ;
+				flag =0;
 				}
 				break;
 			case 2:
-				KeY=KEY_Encryption(state);
+				KeY=KEY_Encryption(flag );
 				if(KeY==4){
 				ledoff_1();
 				ledoff_2();
 				ledoff_3();
 				ledoff_4();
-				old=state;
-				state=0;
+				old=flag ;
+				flag =0;
 				}
 				break;
 			case 3:
-				KeY=KEY_Encryption(state);
+				KeY=KEY_Encryption(flag );
 				if(KeY==27){
 				ledon_1();
 				delay(100000000);
@@ -84,12 +84,12 @@ int main(void)
 				ledon_3();
 				delay(100000000);
 				ledon_4();
-				old=state;
-				state=0;
+				old=flag ;
+				flag =0;
 				}
 				break;
 			case 4:
-				KeY=KEY_Encryption(state);
+				KeY=KEY_Encryption(flag );
 				if(KeY==256){
 				ledon_4();
 				delay(100000000);
@@ -98,8 +98,8 @@ int main(void)
 				ledon_2();
 				delay(100000000);
 				ledon_1();
-				old=state;
-				state=0;
+				old=flag ;
+				flag =0;
 				}
 				break;
 			default:
